@@ -1,0 +1,4 @@
+timestamp,location_id,zone,lat,lon,pm25,aqi,primary_source,protocol_status
+2026-10-11 23:15:18,School_Alpha,North District,28.6139,77.209,116.0,145,local_traffic,SAFE
+2026-10-11 23:15:18,School_Beta,Central District,28.5355,77.391,63.2,79,local_traffic,SAFE
+2026-10-11 23:15:18,Farm_Perimeter_01,Rural Belt,30.901,75.8573,248.0,310,stubble_burning,HAZARD_WARNING
